@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "fname": "John",
+      "lname": "Doe",
+      "email_id": "kalhapure.vrushali@gmail.com",
+      "phone": "123-455-6785",
+      "id": 3
+    }
+  ]
+}
